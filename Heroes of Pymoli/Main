@@ -79,7 +79,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "Count number of players, also drop any nulls, and verify the count. 780 players."
+    "#Count number of players, also drop any nulls, and verify the count. 780 players."
    ]
   },
   {
@@ -226,6 +226,34 @@
      "output_type": "execute_result"
     }
    ],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
    "source": []
   },
   {
