@@ -1,6 +1,8 @@
 Heroes of Pymoli
 
 Written description of trends based off data:
-1.
-2.
-3
+1. Males make up the vast majority of players in Heroes of Pymoli. They also make up a vast majority of spending, which makes sense of course. 
+
+2. Although males spend more over all, both females and others tend to spend more per purchase. 
+
+3. The youngest players spend much less than the others. Likely due to lack of income. Players over the age of 20 outspent those under the age of 10 by around $1400 which is close to the entire sum of money spent on items at all. 
